@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmqrdb
+END
+dcmqropt.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmqrdb/dcmqropt.h
+END
+dcmqridx.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmqrdb/dcmqridx.h
+END
+dcmqrptb.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmqrdb/dcmqrptb.h
+END
+dcmqrcnf.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmqrdb/dcmqrcnf.h
+END
+dcmqrdba.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmqrdb/dcmqrdba.h
+END
+dcmqrcbs.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmqrdb/dcmqrcbs.h
+END
+dcmqrdbs.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmqrdb/dcmqrdbs.h
+END
+dcmqrcbf.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmqrdb/dcmqrcbf.h
+END
+dcmqrsrv.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmqrdb/dcmqrsrv.h
+END
+dcmqrcbg.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmqrdb/dcmqrcbg.h
+END
+dcmqrdbi.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmqrdb/dcmqrdbi.h
+END
+dcmqrtis.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmqrdb/dcmqrtis.h
+END
+dcmqrcbm.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmqrdb/dcmqrcbm.h
+END

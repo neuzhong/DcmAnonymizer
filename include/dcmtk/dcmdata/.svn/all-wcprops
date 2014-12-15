@@ -1,0 +1,485 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/spin_mantis/!svn/ver/1289/spin-main/trunk/dcmtk/dcmdata
+END
+dcmetinf.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcmetinf.h
+END
+dcvm.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcvm.h
+END
+dcvrsh.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcvrsh.h
+END
+dcvris.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcvris.h
+END
+dcvrui.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcvrui.h
+END
+dcvrsl.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcvrsl.h
+END
+dcdebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcdebug.h
+END
+dcerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcerror.h
+END
+dcdefine.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcdefine.h
+END
+dcovlay.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcovlay.h
+END
+dcrleccd.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcrleccd.h
+END
+dcvrda.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcvrda.h
+END
+dcvrulup.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcvrulup.h
+END
+dcrledec.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcrledec.h
+END
+dcdicdir.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcdicdir.h
+END
+dcostrmz.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcostrmz.h
+END
+dcvrst.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcvrst.h
+END
+dcvrus.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcvrus.h
+END
+dcsequen.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcsequen.h
+END
+dcddirif.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcddirif.h
+END
+dcvrfd.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcvrfd.h
+END
+dcfilefo.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcfilefo.h
+END
+dcchrstr.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcchrstr.h
+END
+dcobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcobject.h
+END
+dcpixseq.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcpixseq.h
+END
+dcvrfl.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcvrfl.h
+END
+dcvrds.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcvrds.h
+END
+dcuid.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcuid.h
+END
+dcvrlo.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcvrlo.h
+END
+dcpcache.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcpcache.h
+END
+dcdict.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcdict.h
+END
+dcrlerp.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcrlerp.h
+END
+dcvrtm.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcvrtm.h
+END
+dcdeftag.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcdeftag.h
+END
+dcofsetl.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcofsetl.h
+END
+dcistrmb.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcistrmb.h
+END
+dctypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/1289/spin-main/trunk/dcmtk/dcmdata/dctypes.h
+END
+dcistrmf.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcistrmf.h
+END
+dcostrma.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcostrma.h
+END
+dcdirrec.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcdirrec.h
+END
+dclist.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dclist.h
+END
+dcvrat.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcvrat.h
+END
+dcvrcs.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcvrcs.h
+END
+dcvrobow.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcvrobow.h
+END
+dctk.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dctk.h
+END
+cmdlnarg.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/cmdlnarg.h
+END
+dcelem.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcelem.h
+END
+dcdatset.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcdatset.h
+END
+dcbytstr.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcbytstr.h
+END
+dcvr.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcvr.h
+END
+dcvrul.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcvrul.h
+END
+dcistrmz.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcistrmz.h
+END
+dcvrss.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcvrss.h
+END
+dcrlecce.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcrlecce.h
+END
+dcitem.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcitem.h
+END
+dcvrut.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcvrut.h
+END
+dcswap.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcswap.h
+END
+dctag.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dctag.h
+END
+dcvrdt.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcvrdt.h
+END
+dcpixel.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcpixel.h
+END
+dctagkey.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dctagkey.h
+END
+dcvrpn.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcvrpn.h
+END
+dcvrlt.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcvrlt.h
+END
+dcvrae.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcvrae.h
+END
+dcistrma.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcistrma.h
+END
+dchashdi.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dchashdi.h
+END
+dcxfer.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcxfer.h
+END
+dcrlecp.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcrlecp.h
+END
+dcstack.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcstack.h
+END
+dcostrmb.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcostrmb.h
+END
+dcdicent.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcdicent.h
+END
+dcpxitem.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcpxitem.h
+END
+dcrleenc.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcrleenc.h
+END
+dcostrmf.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcostrmf.h
+END
+dcvras.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcvras.h
+END
+dcvrof.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcvrof.h
+END
+dccodec.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dccodec.h
+END
+dcvrpobw.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcvrpobw.h
+END
+dcrledrg.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcrledrg.h
+END
+dcrleerg.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmdata/dcrleerg.h
+END

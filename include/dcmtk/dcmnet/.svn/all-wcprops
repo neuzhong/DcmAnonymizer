@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmnet
+END
+diutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmnet/diutil.h
+END
+extneg.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmnet/extneg.h
+END
+dicom.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmnet/dicom.h
+END
+dcasccff.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmnet/dcasccff.h
+END
+dcasccfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmnet/dcasccfg.h
+END
+dccfprmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmnet/dccfprmp.h
+END
+dcmlayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmnet/dcmlayer.h
+END
+dimse.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmnet/dimse.h
+END
+dccfrsmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmnet/dccfrsmp.h
+END
+lst.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmnet/lst.h
+END
+dccftsmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmnet/dccftsmp.h
+END
+assoc.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmnet/assoc.h
+END
+dccfuidh.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmnet/dccfuidh.h
+END
+dcmtrans.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmnet/dcmtrans.h
+END
+dccfpcmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmnet/dccfpcmp.h
+END
+dccfenmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmnet/dccfenmp.h
+END
+cond.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmnet/cond.h
+END
+dcmsmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmnet/dcmsmap.h
+END
+dul.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmnet/dul.h
+END
+dcompat.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmnet/dcompat.h
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmsign
+END
+sicert.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmsign/sicert.h
+END
+dcsignat.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmsign/dcsignat.h
+END
+simac.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmsign/simac.h
+END
+simaccon.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmsign/simaccon.h
+END
+sitypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmsign/sitypes.h
+END
+siprivat.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmsign/siprivat.h
+END
+sidsa.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmsign/sidsa.h
+END
+sitstamp.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmsign/sitstamp.h
+END
+siautopr.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmsign/siautopr.h
+END
+sinullpr.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmsign/sinullpr.h
+END
+sicreapr.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmsign/sicreapr.h
+END
+siripemd.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmsign/siripemd.h
+END
+sialgo.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmsign/sialgo.h
+END
+sirsa.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmsign/sirsa.h
+END
+simd5.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmsign/simd5.h
+END
+sicertvf.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmsign/sicertvf.h
+END
+sibrsapr.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmsign/sibrsapr.h
+END
+sisprof.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmsign/sisprof.h
+END
+sisha1.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/spin_mantis/!svn/ver/899/spin-main/trunk/dcmtk/dcmsign/sisha1.h
+END
