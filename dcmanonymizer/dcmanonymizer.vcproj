@@ -21,7 +21,8 @@
 			OutputDirectory="$(SolutionDir)$(ConfigurationName)"
 			IntermediateDirectory="$(ConfigurationName)"
 			ConfigurationType="1"
-			CharacterSet="1"
+			UseOfMFC="1"
+			CharacterSet="2"
 			>
 			<Tool
 				Name="VCPreBuildEventTool"
@@ -40,14 +41,16 @@
 			/>
 			<Tool
 				Name="VCCLCompilerTool"
+				UseUnicodeResponseFiles="false"
 				Optimization="0"
-				AdditionalIncludeDirectories="..\include"
+				AdditionalIncludeDirectories="&quot;..\include\gdcm-2.2&quot;;&quot;..\include\gdcm-2.2\gdcmopenjpeg&quot;;..\include"
 				PreprocessorDefinitions="WIN32;_DEBUG;_CONSOLE"
-				MinimalRebuild="true"
-				BasicRuntimeChecks="3"
+				MinimalRebuild="false"
+				BasicRuntimeChecks="0"
 				RuntimeLibrary="1"
+				EnableFunctionLevelLinking="true"
 				UsePrecompiledHeader="0"
-				WarningLevel="3"
+				WarningLevel="1"
 				DebugInformationFormat="4"
 			/>
 			<Tool
@@ -61,10 +64,11 @@
 			/>
 			<Tool
 				Name="VCLinkerTool"
-				AdditionalDependencies="zlib.lib ofstd.lib dcmdata.lib dcmimgle.lib dcmimage.lib dcmnet.lib dcmdsig.lib dcmqrdb.lib dcmsr.lib dcmtls.lib dcmwlm.lib ijg8.lib ijg12.lib ijg16.lib dcmjpeg.lib dcmpstat.lib"
+				LinkLibraryDependencies="false"
+				AdditionalDependencies="..\lib\gdcm-2.2\gdcmMSFF.lib ..\lib\gdcm-2.2\gdcmDICT.lib ..\lib\gdcm-2.2\gdcmIOD.lib ..\lib\gdcm-2.2\gdcmDSED.lib ..\lib\gdcm-2.2\gdcmCommon.lib odbc32.lib"
 				LinkIncremental="2"
-				AdditionalLibraryDirectories="..\lib\debug"
-				IgnoreDefaultLibraryNames="msvcrt.lib"
+				AdditionalLibraryDirectories="..\lib"
+				IgnoreDefaultLibraryNames=""
 				GenerateDebugInformation="true"
 				SubSystem="1"
 				TargetMachine="1"
@@ -118,9 +122,9 @@
 				Name="VCCLCompilerTool"
 				Optimization="2"
 				EnableIntrinsicFunctions="true"
-				AdditionalIncludeDirectories="..\include"
+				AdditionalIncludeDirectories="&quot;..\include\gdcm-2.2&quot;;&quot;..\include\gdcm-2.2\gdcmopenjpeg&quot;;..\include"
 				PreprocessorDefinitions="WIN32;NDEBUG;_CONSOLE"
-				RuntimeLibrary="2"
+				RuntimeLibrary="0"
 				EnableFunctionLevelLinking="true"
 				UsePrecompiledHeader="0"
 				WarningLevel="3"
@@ -137,10 +141,10 @@
 			/>
 			<Tool
 				Name="VCLinkerTool"
-				AdditionalDependencies="zlib.lib ofstd.lib dcmdata.lib dcmimgle.lib dcmimage.lib dcmnet.lib dcmdsig.lib dcmqrdb.lib dcmsr.lib dcmtls.lib dcmwlm.lib ijg8.lib ijg12.lib ijg16.lib dcmjpeg.lib dcmpstat.lib"
+				AdditionalDependencies="..\lib\gdcm-2.2\gdcmMSFF.lib ..\lib\gdcm-2.2\gdcmDICT.lib ..\lib\gdcm-2.2\gdcmIOD.lib ..\lib\gdcm-2.2\gdcmDSED.lib ..\lib\gdcm-2.2\gdcmCommon.lib odbc32.lib"
 				LinkIncremental="1"
 				AdditionalLibraryDirectories="..\lib"
-				IgnoreDefaultLibraryNames="msvcrtd.lib"
+				IgnoreDefaultLibraryNames=""
 				GenerateDebugInformation="true"
 				SubSystem="1"
 				OptimizeReferences="2"
@@ -191,6 +195,10 @@
 				>
 			</File>
 			<File
+				RelativePath=".\ZCommandParse.cpp"
+				>
+			</File>
+			<File
 				RelativePath=".\ZDicomDS.cpp"
 				>
 			</File>
@@ -210,6 +218,10 @@
 			</File>
 			<File
 				RelativePath=".\ZCmdPara.h"
+				>
+			</File>
+			<File
+				RelativePath=".\ZCommandParse.h"
 				>
 			</File>
 			<File

@@ -10,6 +10,10 @@
 #include <stdio.h>
 #include <tchar.h>
 
-
+#include <map>
+#include <vector>
+#include <string>
+#include <algorithm>
+using namespace std;
 
 // TODO: reference additional headers your program requires here
